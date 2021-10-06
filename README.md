@@ -1,8 +1,7 @@
 # Senior Shopify specialist with Full stack experience
 Ecommerce Specialist with Shopify experience based in Colombia.
-```
-Primarily, As I have solid knowledge about Shopify Plus, I can deliver high-quality results as customers need.
-```
+- Build and develop APIs that will integrate platforms with backend systems.
+- Work experience with third-party service providers in integrating their services into Shopify and/or Shopify Plus.
 - Theme customization
 - Landing page design(Shogun, GemPages Page Builder)
 - Custom Shopify App development
