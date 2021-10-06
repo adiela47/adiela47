@@ -33,3 +33,7 @@ Primarily, As I have solid knowledge about Shopify Plus, I can deliver high-qual
 - Strong analytical and problem-solving capabilities, powerful troubleshooting skills.
 - Self-disciplined, highly motivated, and a quick learner.
 - Strong team player with the ability to work effectively in a team environment.
+
+```javascript
+var= x
+```
