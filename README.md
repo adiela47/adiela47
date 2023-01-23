@@ -1,5 +1,5 @@
 # Senior Shopify/WordPress developer
-Ecommerce Specialist with Shopify experience based in Colombia.
+
 - Build and develop APIs that will integrate platforms with backend systems.
 - Work experience with third-party service providers in integrating their services into Shopify and/or Shopify Plus.
 - Theme customization
